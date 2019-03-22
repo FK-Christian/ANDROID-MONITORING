@@ -1,0 +1,13 @@
+[21/03/2019 12:09:39] - [CMAX] - NIVEAU 3: SELECT * FROM settings WHERE DeviceUniqueId='0176001690702169ad76740dcdb8e42b' 
+[21/03/2019 12:09:39] - [CMAX] - NIVEAU 2:  
+[21/03/2019 12:09:39] - [CMAX] - NIVEAU 1: {"affected_rows":null,"client_info":null,"client_version":null,"connect_errno":null,"connect_error":null,"errno":null,"error":null,"error_list":null,"field_count":null,"host_info":null,"info":null,"insert_id":null,"server_info":null,"server_version":null,"stat":null,"sqlstate":null,"protocol_version":null,"thread_id":null,"warning_count":null} 
+[21/03/2019 12:09:39] - [CMAX] - ENTREE: {"uniqueid":"0176001690702169ad76740dcdb8e42b"} 
+[21/03/2019 11:50:17] - [CMAX] - DATA: No row in settings table (2) 
+[21/03/2019 11:50:17] - [CMAX] - NIVEAU 3: SELECT * FROM settings WHERE DeviceUniqueId='0176001690702169ad76740dcdb8e42b' 
+[21/03/2019 11:50:17] - [CMAX] - NIVEAU 2:  
+[21/03/2019 11:50:17] - [CMAX] - NIVEAU 1: {"affected_rows":null,"client_info":null,"client_version":null,"connect_errno":null,"connect_error":null,"errno":null,"error":null,"error_list":null,"field_count":null,"host_info":null,"info":null,"insert_id":null,"server_info":null,"server_version":null,"stat":null,"sqlstate":null,"protocol_version":null,"thread_id":null,"warning_count":null} 
+[21/03/2019 11:50:17] - [CMAX] - ENTREE: {"uniqueid":"0176001690702169ad76740dcdb8e42b"} 
+[21/03/2019 11:48:20] - [CMAX] - NIVEAU 3: SELECT * FROM settings WHERE DeviceUniqueId='0176001690702169ad76740dcdb8e42b' 
+[21/03/2019 11:48:20] - [CMAX] - NIVEAU 2:  
+[21/03/2019 11:48:20] - [CMAX] - NIVEAU 1: {"affected_rows":null,"client_info":null,"client_version":null,"connect_errno":null,"connect_error":null,"errno":null,"error":null,"error_list":null,"field_count":null,"host_info":null,"info":null,"insert_id":null,"server_info":null,"server_version":null,"stat":null,"sqlstate":null,"protocol_version":null,"thread_id":null,"warning_count":null} 
+[21/03/2019 11:48:20] - [CMAX] - ENTREE: {"uniqueid":"0176001690702169ad76740dcdb8e42b"} 

@@ -22,3 +22,4 @@ The Minimum SDK version for the app is API 15 and by its nature, the Target API 
 </ul>
 <hr/>
 <i>Check the Wiki for more information.</i>
+<i>for all other information refered to fodoup@gmail.com.</i>
